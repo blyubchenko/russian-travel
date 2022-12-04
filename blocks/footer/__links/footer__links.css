@@ -3,9 +3,10 @@
   list-style-type: none;
   padding: 0;
   margin: 0;
+  column-gap: 18px;
 }
 
-@media screen and (max-width: 510px) {
+@media screen and (max-width: 525px) {
   .footer__links {
     flex-direction: column;
     row-gap: 32px;

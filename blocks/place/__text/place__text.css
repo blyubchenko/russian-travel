@@ -5,12 +5,6 @@
 
 @media screen and (max-width: 632px) {
   .place__text {
-    margin: 0 24px;
-  }
-}
-
-@media screen and (max-width: 632px) {
-  .place__text {
     margin: 0 16px;
   }
 }

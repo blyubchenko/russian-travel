@@ -8,13 +8,13 @@
   transition: ease-out 0.3s;
 }
 
+.header__link:hover {
+  opacity: 0.8;
+}
+
 @media screen and (max-width:690px) {
   .header__link {
     font-size: 18px;
     line-height: 20px;
   }
-}
-
-.header__link:hover {
-  opacity: 0.8;
 }
